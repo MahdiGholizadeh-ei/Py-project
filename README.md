@@ -1,2 +1,2 @@
-# fisrt-project
+# Python-project
 Test 1
