@@ -1,2 +1,6 @@
-# Python-project
-Test 1
+from visual import*
+from time import*
+from math import*
+
+print('salam')
+
