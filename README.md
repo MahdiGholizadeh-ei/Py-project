@@ -1,3 +1,2 @@
 
-print('Hi')
-
+Sample of
